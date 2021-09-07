@@ -1,5 +1,5 @@
 describe( "Formatter", () => {
-  describe( "capitalize", () => {
+  /* describe( "capitalize", () => {
     it( "is a static method", () => {
       expect( Formatter.capitalize( "crocodile" ) ).to.not.throw
     } )
@@ -10,6 +10,7 @@ describe( "Formatter", () => {
       expect( Formatter.capitalize( "BURSTING BALLOON" ) ).to.equal( "BURSTING BALLOON" )
     } )
   } )
+  */
 
   describe( "sanitize", () => {
     it( "is a static method", () => {
